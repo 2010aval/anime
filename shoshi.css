@@ -1,0 +1,71 @@
+* 
+{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: "Dancing Script", cursive; 
+} 
+ 
+body
+{
+    background-image: url(1613311035_129-p-sinii-anime-fon-estetika-191.jpg);
+    background-repeat: no-repeat;
+}
+.text ul 
+{ 
+    display: flex; 
+    gap: 100px; 
+    margin-top: 100px;
+    text-align: center; 
+    color: #fff;
+    font-size: 100px;
+    padding: 100px;
+   
+} 
+ 
+.text li 
+{ 
+    list-style-type: none; 
+} 
+ 
+.text a 
+{ 
+    text-decoration: none; 
+    font-size: 70px; 
+    color: #fff; 
+} 
+.h1
+{
+    color: #fff;
+    font-size: 100px;
+    padding-top: 100px;
+    text-align: center;
+
+}
+.p
+{
+    text-align: center;
+    color: #fff;
+    font-size: 100px;
+    padding-top: 25px;
+}
+.col
+{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+.kok
+{
+    text-align: center;
+    padding: 100px;
+}
+.class
+{
+    text-align: center;
+    padding: 100px;
+    text-align: center;
+    color: #fff;
+    font-size: 100px;
+    padding-top: 25px;
+}
